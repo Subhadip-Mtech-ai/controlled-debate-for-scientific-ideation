@@ -1,0 +1,68 @@
+{
+    "study_title": "Separating Debate from Diversity: A Controlled Study of LLM-Based Scientific Ideation",
+    "status": "provisional_pilot",
+    "model_provider": "google",
+    "model_status": "provisional",
+    "research_tasks": 10,
+    "conditions": {
+        "single_llm": {
+            "description": "One model generates one hypothesis.",
+            "hypotheses_per_trial": 1
+        },
+        "independent_sampling": {
+            "description": "Three independent samples without interaction.",
+            "samples_per_trial": 3
+        },
+        "multi_agent_debate": {
+            "description": "Three agents generate, critique and revise hypotheses.",
+            "agents": 3,
+            "debate_rounds": 2,
+            "initial_generation": "three_independent_hypotheses",
+            "round_1": "peer_critique",
+            "round_2": "individual_revision",
+            "final_hypotheses_per_trial": 3,
+            "automatic_merging": false,
+            "automatic_ranking": false
+        }
+    },
+    "repetitions_per_task_per_condition": 3,
+    "estimated_condition_trials": 90,
+    "debate_protocol": {
+        "status": "approved_provisional",
+        "agents": 3,
+        "rounds": 2,
+        "external_retrieval": false,
+        "preserve_initial_hypotheses": true,
+        "preserve_critiques": true,
+        "preserve_revisions": true
+    },
+    "evaluation": {
+        "quality": "to_be_defined",
+        "novelty": "to_be_defined",
+        "factuality": "to_be_defined",
+        "mechanistic_plausibility": "to_be_defined",
+        "testability": "to_be_defined",
+        "diversity": "to_be_defined",
+        "computational_cost": "record_api_calls_and_tokens"
+    },
+    "budget_policy": {
+        "status": "to_be_finalized",
+        "record_input_tokens": true,
+        "record_output_tokens": true,
+        "record_api_calls": true,
+        "record_latency": true,
+        "compare_quality_against_computational_cost": true
+    },
+    "generation_parameters": {
+        "temperature": "to_be_finalized",
+        "max_output_tokens": "to_be_finalized"
+    },
+    "notes": [
+        "Use the same underlying model across all conditions.",
+        "Use the same research tasks and base prompt.",
+        "Keep evidence access consistent.",
+        "Record token usage, API calls and latency.",
+        "Preserve all intermediate debate messages.",
+        "Exclude the earlier Gemini smoke-test task."
+    ]
+}

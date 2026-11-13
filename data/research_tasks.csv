@@ -1,0 +1,11 @@
+task_id,domain,research_task
+T01,Environmental Science,Investigate how urban surface materials and vegetation arrangements influence local heat retention and pedestrian thermal comfort.
+T02,Environmental Science,Investigate how changing rainfall patterns affect soil moisture retention and ecosystem resilience.
+T03,Agriculture,Investigate how microbial communities in agricultural soil influence crop tolerance to drought stress.
+T04,Agriculture,Investigate how alternative nutrient delivery methods influence crop growth and fertilizer-use efficiency.
+T05,Energy and Materials Science,Investigate how environmental conditions influence degradation and performance loss in lithium-ion batteries.
+T06,Energy and Materials Science,Investigate how surface coatings influence the efficiency and long-term durability of photovoltaic panels.
+T07,Water and Public Health,Investigate how low-cost filtration materials influence the removal of microplastics from wastewater.
+T08,Water and Public Health,Investigate how environmental conditions affect the persistence of antimicrobial resistance genes in wastewater systems.
+T09,Biomedical Science,Investigate how wearable sensor data and sleep patterns can be used to identify early indicators of sleep disruption.
+T10,Computational Science,Investigate how explainable machine-learning methods can improve the identification of early patterns in biomedical datasets.
