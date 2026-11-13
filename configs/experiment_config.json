@@ -29,12 +29,44 @@
     "estimated_condition_trials": 90,
     "debate_protocol": {
         "status": "approved_provisional",
-        "agents": 3,
+        "agents": [
+            "A1",
+            "A2",
+            "A3"
+        ],
         "rounds": 2,
         "external_retrieval": false,
         "preserve_initial_hypotheses": true,
         "preserve_critiques": true,
-        "preserve_revisions": true
+        "preserve_revisions": true,
+        "workflow_status": "approved_provisional",
+        "initial_hypotheses_per_trial": 3,
+        "critique_rounds": 1,
+        "revision_rounds": 1,
+        "directed_peer_evaluations": 6,
+        "critique_api_calls_expected": 3,
+        "revision_api_calls_expected": 3,
+        "initial_generation_api_calls_expected": 3,
+        "total_api_calls_expected_per_trial": 9,
+        "feedback_assignment": {
+            "A1": [
+                "critique_from_A2",
+                "critique_from_A3"
+            ],
+            "A2": [
+                "critique_from_A1",
+                "critique_from_A3"
+            ],
+            "A3": [
+                "critique_from_A1",
+                "critique_from_A2"
+            ]
+        },
+        "preserve_all_initial_hypotheses": true,
+        "preserve_all_critiques": true,
+        "preserve_all_revisions": true,
+        "automatic_merging": false,
+        "automatic_ranking": false
     },
     "evaluation": {
         "quality": "to_be_defined",
