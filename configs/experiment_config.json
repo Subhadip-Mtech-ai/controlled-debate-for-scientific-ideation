@@ -96,5 +96,19 @@
         "Record token usage, API calls and latency.",
         "Preserve all intermediate debate messages.",
         "Exclude the earlier Gemini smoke-test task."
-    ]
+    ],
+    "api_constraints": {
+        "provider": "Google Gemini API",
+        "model": "gemini-3.5-flash-lite",
+        "rpm_limit": 15,
+        "tpm_limit": 250000,
+        "rpd_limit": 500,
+        "expected_total_api_calls": 390,
+        "recommended_execution_days": 2,
+        "recommended_calls_per_day": 195,
+        "request_interval_seconds": 5,
+        "retry_policy": "Exponential backoff for temporary failures",
+        "quota_verification_status": "Verified from Google AI Studio dashboard",
+        "model_selection_status": "Provisional"
+    }
 }

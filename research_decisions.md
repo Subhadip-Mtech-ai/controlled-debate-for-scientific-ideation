@@ -64,3 +64,50 @@ Status definitions:
 4. Implement the single-LLM baseline.
 5. Validate the baseline before implementing multi-agent debate.
 6. Finalize evaluation metrics and statistical tests.
+
+
+## 7. Model Selection and API Configuration
+
+| Decision | Reason | Evidence | Status |
+|---|---|---|---|
+| Select Gemini 3.5 Flash Lite as the provisional base model. | It completed three independent T01 generations using the same prompt and configuration. | Three successful generation records saved in results/model_validation/. | INFERRED |
+| Use temperature 0.2 and maximum output tokens of 2048 for the initial model validation configuration. | These settings produced complete structured hypotheses during the initial tests. | Saved generation metadata for all three T01 runs. | VERIFIED |
+| Record input and candidate token usage for every generation. | Token usage is necessary to compare computational requirements across experimental conditions. | Token usage returned by the Gemini API in all three validation runs. | VERIFIED |
+| Record Gemini API limits as 15 RPM, 250000 TPM, and 500 RPD. | These limits determine the practical execution schedule. | Google AI Studio rate-limit dashboard inspected on 2026-11-13. | VERIFIED |
+| Plan an initial two-day schedule of 195 expected calls per day. | The planned 390 calls fit within the displayed daily request limit when divided across two days. | Experiment configuration and observed dashboard limits. | INFERRED |
+| Keep the model selection provisional until validation across the research task set and API reliability assessment are completed. | Three generations on one task do not establish general model suitability. | Current validation covers only T01. | INFERRED |
+
+## 8. Model Validation Evidence and Limitations
+
+- Three independent T01 generations completed successfully.
+- All three outputs followed the seven-section hypothesis structure.
+- Token usage was recorded for all three generations.
+- Generated outputs and metadata were saved in the repository.
+- Earlier model testing encountered 404 and 503 API errors.
+- The retry mechanism has not yet been implemented and validated.
+- Cost tracking has not yet been established.
+- API quota values are based on the dashboard observation on 2026-11-13 and may change.
+- Model performance across all ten research tasks remains UNKNOWN.
+
+The three-run check is preliminary evidence, not proof of statistical
+reproducibility or general scientific quality.
+
+## 9. Updated Open Questions
+
+| Question | Why It Matters | Status |
+|---|---|---|
+| Does Gemini 3.5 Flash Lite perform reliably across all ten research tasks? | T01 alone is insufficient to establish general suitability. | UNKNOWN |
+| What generation and debate token budgets will be used? | Comparable resource allocation is necessary for fair evaluation. | UNKNOWN |
+| What retry and recovery policy should be used for temporary API failures? | Failed requests can affect execution time and total API usage. | UNKNOWN |
+| How will API costs be calculated and recorded? | Computational efficiency must include resource consumption. | UNKNOWN |
+| Will expert evaluation be feasible? | Human assessment could strengthen the evaluation. | UNKNOWN |
+| What statistical tests will be used to compare experimental conditions? | Statistical analysis is needed to assess observed differences. | UNKNOWN |
+
+## 10. Updated Next Actions
+
+1. Validate the provisional model across the research task set.
+2. Finalize generation and debate token budgets.
+3. Implement API error handling, retries, and execution logging.
+4. Implement the single-LLM experimental baseline.
+5. Validate the baseline before running the independent sampling and debate conditions.
+6. Finalize evaluation metrics and statistical tests.

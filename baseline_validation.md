@@ -62,7 +62,7 @@ Each successful baseline execution should save:
 
 | Date | Issue or Deviation | Impact | Resolution |
 |---|---|---|---|
-| Not recorded | No baseline implementation has been executed yet. | Validation is pending. | Implement and execute the baseline first. |
+| 2026-11-13 | Preliminary T01 model validation completed, but the full single-LLM baseline is not implemented. | Model suitability has initial evidence; baseline validation remains pending. | Implement and validate the experimental baseline. |
 
 ## 7. Validation Summary
 
@@ -81,3 +81,90 @@ Each successful baseline execution should save:
 4. Execute a small test run.
 5. Verify output structure, token usage, and result storage.
 6. Update this document with actual results and any deviations.
+
+
+## 9. Preliminary Model and API Validation
+
+### 9.1 Selected Model Candidate
+
+**Provider:** Google Gemini API
+
+**Model:** gemini-3.5-flash-lite
+
+**Selection status:** Provisional
+
+**Research task used:** T01 - Urban surface materials and vegetation arrangements.
+
+**Prompt version:** revised_common_generation_prompt
+
+**Temperature:** 0.2
+
+**Maximum output tokens:** 2048
+
+### 9.2 Repeatability Results
+
+Three independent generations were completed using the same model,
+research task, prompt version, and generation settings.
+
+| Run | Prompt Tokens | Candidate Tokens | Total Tokens | Finish Reason | Status |
+|---|---:|---:|---:|---|---|
+| 1 | 298 | 757 | 1055 | STOP | SUCCESS |
+| 2 | 298 | 744 | 1042 | STOP | SUCCESS |
+| 3 | 298 | 878 | 1176 | STOP | SUCCESS |
+
+**Average total tokens:** 1091
+
+All three generations followed the required seven-section output
+structure. The generated hypotheses showed variation in wording,
+mechanism, and proposed methodology.
+
+This is an initial repeatability check on one research task. It does
+not establish statistical reproducibility or general performance
+across all research tasks.
+
+### 9.3 API Rate Limits
+
+The following limits were observed in the Google AI Studio dashboard
+on 2026-11-13:
+
+| Metric | Observed Limit |
+|---|---:|
+| Requests per minute (RPM) | 15 |
+| Tokens per minute (TPM) | 250000 |
+| Requests per day (RPD) | 500 |
+
+The planned experiment requires 390 API calls before retries or
+additional evaluation calls.
+
+A two-day execution schedule of approximately 195 calls per day
+has been proposed.
+
+These dashboard limits may change and must be checked again before
+the full experiment.
+
+### 9.4 Model Validation Checklist
+
+| Check | Actual Result | Status |
+|---|---|---|
+| API connectivity | Three successful T01 generations | PASSED |
+| Prompt execution | Updated common prompt executed successfully | PASSED |
+| Output format | Seven required sections present in all three runs | PASSED |
+| Initial repeatability | Three successful generations with the same configuration | PASSED - PRELIMINARY |
+| Token tracking | Input and candidate token usage recorded | PASSED |
+| Cost tracking | Cost not yet established | NOT TESTED |
+| Error handling | 404 and 503 errors observed during earlier model tests; retry handling not implemented | PARTIALLY TESTED |
+| Result storage | Generated outputs and metadata saved in Drive and repository | PASSED |
+
+### 9.5 Remaining Validation Work
+
+1. Implement the single-LLM experimental generation pipeline.
+2. Test the baseline on the selected research task set.
+3. Verify token and latency logging for every API call.
+4. Implement and test retry handling for temporary API failures.
+5. Establish how API cost will be recorded, where pricing information is available.
+6. Recheck API quota before full experimental execution.
+7. Validate output quality and structure across multiple research tasks.
+
+**Preliminary model validation status:** COMPLETED
+
+**Full single-LLM baseline status:** NOT IMPLEMENTED
