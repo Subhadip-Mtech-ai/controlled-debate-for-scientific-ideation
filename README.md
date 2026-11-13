@@ -1,5 +1,6 @@
+# Separating Debate from Diversity: A Controlled Study of LLM-Based Scientific Ideation
 
-# Single-LLM vs Multi-Agent Debate Systems for Scientific Hypothesis Generation
+## Research Overview
 
 ## 1. Overview
 
