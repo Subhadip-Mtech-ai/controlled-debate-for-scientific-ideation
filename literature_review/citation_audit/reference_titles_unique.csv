@@ -1,0 +1,143 @@
+paper_title,source_record_ids,topic_groups,original_local_path,occurrence_count,doi,publication_year,semantic_scholar_paper_id,open_access_pdf_url,download_status,verification_status
+Attention is all you need,"10137, 9995, 9022","LLM_NLP, ML_DL, Evaluation_Reliability",./papers_data/Attention is All you Need.pdf,3,,,,,Pending,Not verified
+The goldilocks of pragmatic understanding: Finetuning strategy matters for implicature resolution by llms,10137,LLM_NLP,./papers_data/The Goldilocks of Pragmatic Understanding Fine-Tuning Strategy Matters for Implicature Resolution by LLMs.pdf,1,,,,,Pending,Not verified
+Understanding social reasoning in language models with language models,10137,LLM_NLP,./papers_data/understanding social reasoning in language models with language models.pdf,1,,,,,Pending,Not verified
+Does the chimpanzee have a theory of mind?,10137,LLM_NLP,./papers_data/does the chimpanzee have a theory of mind.pdf,1,,,,,Pending,Not verified
+Direct preference optimization: Your language model is secretly a reward model,"10137, 8542",LLM_NLP,./papers_data/direct preference optimization your language model is secretly a reward model.pdf,2,,,,,Pending,Not verified
+Training language models to follow instructions with human feedback,8542,LLM_NLP,./papers_data/Training language models to follow instructions with human feedback.pdf,1,,,,,Pending,Not verified
+Proximal policy optimization algorithms,8542,LLM_NLP,./papers_data/proximal policy optimization algorithms.pdf,1,,,,,Pending,Not verified
+Fireact: Toward language agent fine-tuning,8542,LLM_NLP,./papers_data/fireact toward language agent fine tuning.pdf,1,,,,,Pending,Not verified
+Agenttuning: Enabling generalized agent abilities for llms,8542,LLM_NLP,./papers_data/agenttuning enabling generalized agent abilities for llms.pdf,1,,,,,Pending,Not verified
+Structured denoising diffusion models in discrete state-spaces,3258,LLM_NLP,./papers_data/Structured Denoising Diffusion Models in Discrete State-Spaces.pdf,1,,,,,Pending,Not verified
+Simple and effective masked diffusion language models,3258,LLM_NLP,./papers_data/Simple and Effective Masked Diffusion Language Models.pdf,1,,,,,Pending,Not verified
+Denoising diffusion probabilistic models,"3258, 780, 6310","LLM_NLP, Generative_RL",./papers_data/Denoising Diffusion Probabilistic Models.pdf,3,,,,,Pending,Not verified
+Discrete diffusion language modeling by estimating the ratios of the data distribution,3258,LLM_NLP,./papers_data/discrete diffusion modeling by estimating the ratios of the data distribution.pdf,1,,,,,Pending,Not verified
+Ssd-lm: Semi-autoregressive simplex-based diffusion language model for text generation and modular control,3258,LLM_NLP,./papers_data/ssd lm semi autoregressive simplex based diffusion language model for text generation and modular control.pdf,1,,,,,Pending,Not verified
+Woodpecker: Hallucination correction for multimodal large language models,10460,LLM_NLP,./papers_data/woodpecker hallucination correction for multimodal large language models.pdf,1,,,,,Pending,Not verified
+Dress: Instructing large vision-language models to align and interact with humans via natural language feedback,10460,LLM_NLP,./papers_data/dress  instructing large vision language models to align and interact with humans via natural language feedback.pdf,1,,,,,Pending,Not verified
+Multimodal large language models: A survey,10460,LLM_NLP,./papers_data/multimodal large language models a survey.pdf,1,,,,,Pending,Not verified
+Volcano: mitigating multimodal hallucination through self-feedback guided revision,10460,LLM_NLP,./papers_data/volcano mitigating multimodal hallucination through self feedback guided revision.pdf,1,,,,,Pending,Not verified
+Instructblip: Towards general-purpose vision-language models with instruction tuning,10460,LLM_NLP,./papers_data/instructblip towards general purpose vision language models with instruction tuning.pdf,1,,,,,Pending,Not verified
+Lorahub: Efficient cross-task generalization via dynamic lora composition,9046,LLM_NLP,./papers_data/lorahub efficient cross task generalization via dynamic lora composition.pdf,1,,,,,Pending,Not verified
+Parameter-efficient transfer learning for NLP,"9046, 918","LLM_NLP, ML_DL",./papers_data/parameter efficient transfer learning for nlp.pdf,2,,,,,Pending,Not verified
+Composing parameter-efficient modules with arithmetic operations,9046,LLM_NLP,./papers_data/composing parameter efficient modules with arithmetic operations.pdf,1,,,,,Pending,Not verified
+Gpt-4 technical report,9046,LLM_NLP,./papers_data/gpt 4 technical report.pdf,1,,,,,Pending,Not verified
+Prefix-tuning: Optimizing continuous prompts for generation,"9046, 918","LLM_NLP, ML_DL",./papers_data/prefix tuning optimizing continuous prompts for generation.pdf,2,,,,,Pending,Not verified
+X-instructblip: A framework for aligning x-modal instruction-aware representations to llms and emergent cross-modal reasoning,8951,LLM_NLP,./papers_data/x instructblip a framework for aligning x modal instruction aware representations to llms and emergent cross modal reasoning.pdf,1,,,,,Pending,Not verified
+Pointllm: Empowering large language models to understand point clouds,8951,LLM_NLP,./papers_data/pointllm empowering large language models to understand point clouds.pdf,1,,,,,Pending,Not verified
+Video-llava: Learning united visual representation by alignment before projection,8951,LLM_NLP,./papers_data/video llava learning united visual representation by alignment before projection.pdf,1,,,,,Pending,Not verified
+Objaverse: A universe of annotated 3d objects,8951,LLM_NLP,./papers_data/objaverse xl a universe of 10m 3d objects.pdf,1,,,,,Pending,Not verified
+Imagebind: One embedding space to bind them all,8951,LLM_NLP,./papers_data/imagebind one embedding space to bind them all.pdf,1,,,,,Pending,Not verified
+Lora: Low-rank adaptation of large language models,918,ML_DL,./papers_data/LoRA Low-Rank Adaptation of Large Language Models.pdf,1,,,,,Pending,Not verified
+Visual prompt tuning,918,ML_DL,./papers_data/Visual Fourier Prompt Tuning.pdf,1,,,,,Pending,Not verified
+The power of scale for parameter-efficient prompt tuning,918,ML_DL,./papers_data/the power of scale for parameter efficient prompt tuning.pdf,1,,,,,Pending,Not verified
+A Unified Framework for Adversarial Attack and Defense in Constrained Feature Space,6466,ML_DL,./papers_data/a unified framework for adversarial attack and defense in constrained feature space.pdf,1,,,,,Pending,Not verified
+Search-based adversarial testing and improvement of constrained credit scoring systems,6466,ML_DL,./papers_data/search based adversarial testing and improvement of constrained credit scoring systems.pdf,1,,,,,Pending,Not verified
+Imperceptible Adversarial Attacks on Tabular Data,6466,ML_DL,./papers_data/imperceptible adversarial attacks on tabular data.pdf,1,,,,,Pending,Not verified
+Tabnet: Attentive interpretable tabular learning,6466,ML_DL,./papers_data/tabnet attentive interpretable tabular learning.pdf,1,,,,,Pending,Not verified
+Tabtransformer: Tabular data modeling using contextual embeddings,6466,ML_DL,./papers_data/tabtransformer tabular data modeling using contextual embeddings.pdf,1,,,,,Pending,Not verified
+Imagenet classification with deep convolutional neural networks,3693,ML_DL,./papers_data/ImageNet Classification with Deep Convolutional Neural Networks.pdf,1,,,,,Pending,Not verified
+Conceptual 12M: Pushing web-scale image-text pre-training to recognize long-tail visual concepts,3693,ML_DL,./papers_data/conceptual 12m pushing web scale image text pre training to recognize long tail visual concepts.pdf,1,,,,,Pending,Not verified
+Deep residual learning for image recognition,"3693, 9090","ML_DL, Evaluation_Reliability",./papers_data/Deep Residual Learning for Image Recognition.pdf,2,,,,,Pending,Not verified
+A convnet for the 2020s,3693,ML_DL,./papers_data/a convnet for the 2020s.pdf,1,,,,,Pending,Not verified
+Masked autoencoders are scalable vision learners,3693,ML_DL,./papers_data/masked autoencoders are scalable vision learners.pdf,1,,,,,Pending,Not verified
+Simteg: A frustratingly simple approach improves textual graph learning,9995,ML_DL,./papers_data/simteg a frustratingly simple approach improves textual graph learning.pdf,1,,,,,Pending,Not verified
+Harnessing explanations: Llm-to-lm interpreter for enhanced text-attributed graph representation learning,9995,ML_DL,./papers_data/harnessing explanations llm to lm interpreter for enhanced text attributed graph representation learning.pdf,1,,,,,Pending,Not verified
+Open graph benchmark: Datasets for machine learning on graphs,9995,ML_DL,./papers_data/Open Graph Benchmark  Datasets for Machine Learning on Graphs.pdf,1,,,,,Pending,Not verified
+Bert: Pre-training of deep bidirectional transformers for language understanding,9995,ML_DL,./papers_data/bert pre training of deep bidirectional transformers for language understanding.pdf,1,,,,,Pending,Not verified
+End-to-end neural coreference resolution,8498,ML_DL,./papers_data/end to end neural coreference resolution.pdf,1,,,,,Pending,Not verified
+Higher-order coreference resolution with coarse-to-fine inference,8498,ML_DL,./papers_data/higher order coreference resolution with coarse to fine inference.pdf,1,,,,,Pending,Not verified
+Longformer: The long-document transformer,8498,ML_DL,./papers_data/longformer the long document transformer.pdf,1,,,,,Pending,Not verified
+Coreference resolution through a seq2seq transition-based system,8498,ML_DL,./papers_data/coreference resolution through a seq2seq transition based system.pdf,1,,,,,Pending,Not verified
+LingMess: Linguistically informed multi expert scorers for coreference resolution,8498,ML_DL,./papers_data/lingmess linguistically informed multi expert scorers for coreference resolution.pdf,1,,,,,Pending,Not verified
+X-pool: Cross-modal language-video attention for textvideo retrieval,2161,ML_DL,./papers_data/x pool cross modal language video attention for text video retrieval.pdf,1,,,,,Pending,Not verified
+Learning transferable visual models from natural language supervision,2161,ML_DL,./papers_data/learning transferable visual models from natural language supervision.pdf,1,,,,,Pending,Not verified
+A joint sequence fusion model for video question answering and retrieval,2161,ML_DL,./papers_data/a joint sequence fusion model for video question answering and retrieval.pdf,1,,,,,Pending,Not verified
+Clip-vip: Adapting pretrained image-text model to video-language representation alignment,2161,ML_DL,./papers_data/CLIP-ViP Adapting Pre-trained Image-Text Model to Video-Language Alignment.pdf,1,,,,,Pending,Not verified
+Msr-vtt: A large video description dataset for bridging video and language,2161,ML_DL,./papers_data/MSRVTT A Large Video Description Dataset for Bridging Video and Language.pdf,1,,,,,Pending,Not verified
+Results of WMT22 metrics shared task: Stop using BLEU -neural metrics are better and more robust,8637,Evaluation_Reliability,./papers_data/results of wmt22 metrics shared task stop using bleu–neural metrics are better and more robust.pdf,1,,,,,Pending,Not verified
+Comparing rating scales and preference judgements in language evaluation,8637,Evaluation_Reliability,./papers_data/comparing rating scales and preference judgements in language evaluation.pdf,1,,,,,Pending,Not verified
+Evaluation of text generation: A survey,8637,Evaluation_Reliability,./papers_data/evaluation of text generation a survey.pdf,1,,,,,Pending,Not verified
+Survey on evaluation methods for dialogue systems,8637,Evaluation_Reliability,./papers_data/survey on evaluation methods for dialogue systems.pdf,1,,,,,Pending,Not verified
+Spot the bot: A robust and efficient framework for the evaluation of conversational dialogue systems,8637,Evaluation_Reliability,./papers_data/spot the bot a robust and efficient framework for the evaluation of conversational dialogue systems.pdf,1,,,,,Pending,Not verified
+Stacl: Simultaneous translation with implicit anticipation and controllable latency using prefix-to-prefix framework,9022,Evaluation_Reliability,./papers_data/stacl simultaneous translation with implicit anticipation and controllable latency using prefix to prefix framework.pdf,1,,,,,Pending,Not verified
+Learning confidence for out-of-distribution detection in neural networks,9022,Evaluation_Reliability,./papers_data/learning confidence for out of distribution detection in neural networks.pdf,1,,,,,Pending,Not verified
+Learning to translate in real-time with neural machine translation,9022,Evaluation_Reliability,./papers_data/learning to translate in real time with neural machine translation.pdf,1,,,,,Pending,Not verified
+Efficient wait-k models for simultaneous machine translation,9022,Evaluation_Reliability,./papers_data/efficient wait k models for simultaneous machine translation.pdf,1,,,,,Pending,Not verified
+Multi-modal contrastive representation learning for entity alignment,9090,Evaluation_Reliability,./papers_data/multi modal contrastive representation learning for entity alignment.pdf,1,,,,,Pending,Not verified
+Mmkg: multi-modal knowledge graphs,9090,Evaluation_Reliability,./papers_data/mmkg multi modal knowledge graphs.pdf,1,,,,,Pending,Not verified
+Mmea: entity alignment for multi-modal knowledge graph,9090,Evaluation_Reliability,./papers_data/mmea entity alignment for multi modal knowledge graph.pdf,1,,,,,Pending,Not verified
+Visual pivoting for (unsupervised) entity alignment,9090,Evaluation_Reliability,./papers_data/visual pivoting for unsupervised entity alignment.pdf,1,,,,,Pending,Not verified
+Semantic uncertainty: Linguistic invariances for uncertainty estimation in natural language generation,10131,Evaluation_Reliability,./papers_data/Semantic Uncertainty Linguistic Invariances for Uncertainty Estimation in Natural Language Generation.pdf,1,,,,,Pending,Not verified
+Generating with confidence: Uncertainty quantification for black-box large language models,10131,Evaluation_Reliability,./papers_data/generating with confidence uncertainty quantification for black box large language models.pdf,1,,,,,Pending,Not verified
+Conformal language modeling,10131,Evaluation_Reliability,./papers_data/Conformal Language Modeling.pdf,1,,,,,Pending,Not verified
+Language models (mostly) know what they know,10131,Evaluation_Reliability,./papers_data/language models mostly know what they know.pdf,1,,,,,Pending,Not verified
+CoQA: A conversational question answering challenge,10131,Evaluation_Reliability,./papers_data/coqa a conversational question answering challenge.pdf,1,,,,,Pending,Not verified
+Vision meets robotics: The kitti dataset,11012,Evaluation_Reliability,./papers_data/vision meets robotics the kitti dataset.pdf,1,,,,,Pending,Not verified
+Pwclo-net: Deep lidar odometry in 3d point clouds using hierarchical embedding mask optimization,11012,Evaluation_Reliability,./papers_data/pwclo net deep lidar odometry in 3d point clouds using hierarchical embedding mask optimization.pdf,1,,,,,Pending,Not verified
+Deepvo: Towards end-to-end visual odometry with deep recurrent convolutional neural networks,11012,Evaluation_Reliability,./papers_data/deepvo towards end to end visual odometry with deep recurrent convolutional neural networks.pdf,1,,,,,Pending,Not verified
+Limo: Lidar-monocular visual odometry,11012,Evaluation_Reliability,./papers_data/limo lidar monocular visual odometry.pdf,1,,,,,Pending,Not verified
+Swin transformer: Hierarchical vision transformer using shifted windows,11012,Evaluation_Reliability,./papers_data/swin transformer hierarchical vision transformer using shifted windows.pdf,1,,,,,Pending,Not verified
+Proximal optimal transport modeling of population dynamics,6415,Efficiency_Optimization,./papers_data/proximal optimal transport modeling of population dynamics.pdf,1,,,,,Pending,Not verified
+Input convex neural networks,6415,Efficiency_Optimization,./papers_data/Input Convex Neural Networks.pdf,1,,,,,Pending,Not verified
+Learning singlecell perturbation responses using neural optimal transport,6415,Efficiency_Optimization,./papers_data/learning single cell perturbation responses using neural optimal transport.pdf,1,,,,,Pending,Not verified
+The Monge gap: A regularizer to learn all transport maps,6415,Efficiency_Optimization,./papers_data/the monge gap a regularizer to learn all transport maps.pdf,1,,,,,Pending,Not verified
+Trajectorynet: A dynamic optimal transport network for modeling cellular dynamics,6415,Efficiency_Optimization,./papers_data/TrajectoryNet  A Dynamic Optimal Transport Network for Modeling Cellular Dynamics.pdf,1,,,,,Pending,Not verified
+SPLADE: Sparse lexical and expansion model for first stage ranking,9615,Efficiency_Optimization,./papers_data/splade sparse lexical and expansion model for first stage ranking.pdf,1,,,,,Pending,Not verified
+BEIR: A heterogeneous benchmark for zero-shot evaluation of information retrieval models,9615,Efficiency_Optimization,./papers_data/beir a heterogenous benchmark for zero shot evaluation of information retrieval models.pdf,1,,,,,Pending,Not verified
+LexMAE: Lexicon-bottlenecked pretraining for large-scale retrieval,9615,Efficiency_Optimization,./papers_data/lexmae lexicon bottlenecked pretraining for large scale retrieval.pdf,1,,,,,Pending,Not verified
+Anytime ranking on document-ordered indexes,9615,Efficiency_Optimization,./papers_data/anytime ranking on document ordered indexes.pdf,1,,,,,Pending,Not verified
+Efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs,9615,Efficiency_Optimization,./papers_data/efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs.pdf,1,,,,,Pending,Not verified
+Tensor fusion network for multimodal sentiment analysis,10821,Efficiency_Optimization,./papers_data/tensor fusion network for multimodal sentiment analysis.pdf,1,,,,,Pending,Not verified
+Multimodal end-to-end sparse model for emotion recognition,10821,Efficiency_Optimization,./papers_data/multimodal end to end sparse model for emotion recognition.pdf,1,,,,,Pending,Not verified
+Multimodal transformer for unaligned multimodal language sequences,10821,Efficiency_Optimization,./papers_data/multimodal transformer for unaligned multimodal language sequences.pdf,1,,,,,Pending,Not verified
+MOSI: Multimodal corpus of sentiment intensity and subjectivity analysis in online opinion videos,10821,Efficiency_Optimization,./papers_data/mosi multimodal corpus of sentiment intensity and subjectivity analysis in online opinion videos.pdf,1,,,,,Pending,Not verified
+CH-SIMS: A Chinese multimodal sentiment analysis dataset with fine-grained annotation of modality,10821,Efficiency_Optimization,./papers_data/ch sims a chinese multimodal sentiment analysis dataset with fine grained annotation of modality.pdf,1,,,,,Pending,Not verified
+Conservative q-learning for offline reinforcement learning,5871,Efficiency_Optimization,./papers_data/Conservative Data Sharing for Multi-Task Offline Reinforcement Learning.pdf,1,,,,,Pending,Not verified
+Soft actor-critic: Offpolicy maximum entropy deep reinforcement learning with a stochastic actor,5871,Efficiency_Optimization,./papers_data/Soft Actor Critic  Off Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor.pdf,1,,,,,Pending,Not verified
+Off-policy deep reinforcement learning without exploration,5871,Efficiency_Optimization,./papers_data/Off Policy Deep Reinforcement Learning without Exploration.pdf,1,,,,,Pending,Not verified
+D4rl: Datasets for deep data-driven reinforcement learning,5871,Efficiency_Optimization,./papers_data/d4rl datasets for deep data driven reinforcement learning.pdf,1,,,,,Pending,Not verified
+Addressing function approximation error in actor-critic methods,5871,Efficiency_Optimization,./papers_data/Addressing Function Approximation Error in Actor Critic Methods.pdf,1,,,,,Pending,Not verified
+Llama 2: Open foundation and fine-tuned chat models,3326,Efficiency_Optimization,./papers_data/llama 2 open foundation and fine tuned chat models.pdf,1,,,,,Pending,Not verified
+Deltazip: Multi-tenant language model serving via delta compression,3326,Efficiency_Optimization,./papers_data/deltazip multi tenant language model serving via delta compression.pdf,1,,,,,Pending,Not verified
+Biomistral: A collection of open-source pretrained large language models for medical domains,3326,Efficiency_Optimization,./papers_data/biomistral a collection of open source pretrained large language models for medical domains.pdf,1,,,,,Pending,Not verified
+Multitask prompted training enables zero-shot task generalization,3326,Efficiency_Optimization,./papers_data/multitask prompted training enables zero shot task generalization.pdf,1,,,,,Pending,Not verified
+Arcee's mergekit: A toolkit for merging large language models,3326,Efficiency_Optimization,./papers_data/arcee s mergekit a toolkit for merging large language models.pdf,1,,,,,Pending,Not verified
+Towards robust monocular depth estimation: Mixing datasets for zero-shot cross-dataset transfer,656,CV_Multimodal,./papers_data/towards robust monocular depth estimation mixing datasets for zero shot cross dataset transfer.pdf,1,,,,,Pending,Not verified
+Are we ready for autonomous driving? The KITTI vision benchmark suite,656,CV_Multimodal,./papers_data/are we ready for autonomous driving the kitti vision benchmark suite.pdf,1,,,,,Pending,Not verified
+Metric3d: Towards zero-shot metric 3d prediction from a single image,656,CV_Multimodal,./papers_data/metric3d towards zero shot metric 3d prediction from a single image.pdf,1,,,,,Pending,Not verified
+Towards zero-shot scale-aware monocular depth estimation,656,CV_Multimodal,./papers_data/towards zero shot scale aware monocular depth estimation.pdf,1,,,,,Pending,Not verified
+Depth map prediction from a single image using a multi-scale deep network,656,CV_Multimodal,./papers_data/Depth Map Prediction from a Single Image using a Multi Scale Deep Network.pdf,1,,,,,Pending,Not verified
+Scaling laws for neural language models,8091,CV_Multimodal,./papers_data/scaling laws for neural language models.pdf,1,,,,,Pending,Not verified
+Taming transformers for high-resolution image synthesis,8091,CV_Multimodal,./papers_data/taming transformers for high resolution image synthesis.pdf,1,,,,,Pending,Not verified
+Scaling laws for autoregressive generative modeling,8091,CV_Multimodal,./papers_data/scaling laws for autoregressive generative modeling.pdf,1,,,,,Pending,Not verified
+Training compute-optimal large language models,8091,CV_Multimodal,./papers_data/Training Compute-Optimal Protein Language Models.pdf,1,,,,,Pending,Not verified
+Language models are few-shot learners,8091,CV_Multimodal,./papers_data/Language Models are Weak Learners.pdf,1,,,,,Pending,Not verified
+Vector neurons: A general framework for so (3)-equivariant networks,305,CV_Multimodal,./papers_data/vector neurons a general framework for so3 equivariant networks.pdf,1,,,,,Pending,Not verified
+Deepsdf: Learning continuous signed distance functions for shape representation,305,CV_Multimodal,./papers_data/DeepSDF Learning Continuous Signed Distance Functions for Shape Representation.pdf,1,,,,,Pending,Not verified
+Occupancy networks: Learning 3d reconstruction in function space,305,CV_Multimodal,./papers_data/Occupancy Networks Learning 3D Reconstruction in Function Space.pdf,1,,,,,Pending,Not verified
+Predator: Registration of 3d point clouds with low overlap,305,CV_Multimodal,./papers_data/predator registration of 3d point clouds with low overlap.pdf,1,,,,,Pending,Not verified
+Geometric transformer for fast and robust point cloud registration,305,CV_Multimodal,./papers_data/geometric transformer for fast and robust point cloud registration.pdf,1,,,,,Pending,Not verified
+Scalability in perception for autonomous driving: Waymo open dataset,11971,CV_Multimodal,./papers_data/Scalability in Perception for Autonomous Driving Waymo Open Dataset.pdf,1,,,,,Pending,Not verified
+Imagenet: A largescale hierarchical image database,11971,CV_Multimodal,./papers_data/imagenet a large scale hierarchical image database.pdf,1,,,,,Pending,Not verified
+The efficacy of neural planning metrics: A meta-analysis of pkl on nuscenes,11971,CV_Multimodal,./papers_data/the efficacy of neural planning metrics a meta analysis of pkl on nuscenes.pdf,1,,,,,Pending,Not verified
+Spatiotemporal multiplier networks for video action recognition,11971,CV_Multimodal,./papers_data/Spatiotemporal Multiplier Networks for Video Action Recognition.pdf,1,,,,,Pending,Not verified
+Convolutional two-stream network fusion for video action recognition,11971,CV_Multimodal,./papers_data/Convolutional TwoStream Network Fusion for Video Action Recognition.pdf,1,,,,,Pending,Not verified
+Mastering diverse domains through world models,3703,Generative_RL,./papers_data/mastering diverse domains through world models.pdf,1,,,,,Pending,Not verified
+Swin-unet: Unet-like pure transformer for medical image segmentation,3703,Generative_RL,./papers_data/swin unet unet like pure transformer for medical image segmentation.pdf,1,,,,,Pending,Not verified
+Do embodied agents dream of pixelated sheep: Embodied decision making using language guided world modelling,3703,Generative_RL,./papers_data/do embodied agents dream of pixelated sheep embodied decision making using language guided world modelling.pdf,1,,,,,Pending,Not verified
+Video pretraining (vpt): Learning to act by watching unlabeled online videos,3703,Generative_RL,./papers_data/Video PreTraining (VPT) Learning to Act by Watching Unlabeled Online Videos.pdf,1,,,,,Pending,Not verified
+Steve-1: A generative model for text-to-behavior in minecraft,3703,Generative_RL,./papers_data/STEVE-1 A Generative Model for Text-to-Behavior in Minecraft.pdf,1,,,,,Pending,Not verified
+Score-based generative modeling through stochastic differential equations,780,Generative_RL,./papers_data/score based generative modeling of graphs via the system of stochastic differential equations.pdf,1,,,,,Pending,Not verified
+Deep unsupervised learning using nonequilibrium thermodynamics,780,Generative_RL,./papers_data/Deep Unsupervised Learning using Nonequilibrium Thermodynamics.pdf,1,,,,,Pending,Not verified
+Denoising diffusion implicit models,780,Generative_RL,./papers_data/denoising diffusion implicit models.pdf,1,,,,,Pending,Not verified
+High-resolution image synthesis with latent diffusion models,780,Generative_RL,./papers_data/high resolution image synthesis with latent diffusion models.pdf,1,,,,,Pending,Not verified
+An investigation of model-free planning,4511,Generative_RL,./papers_data/An Investigation of Model Free Planning.pdf,1,,,,,Pending,Not verified
+"Mastering atari, go, chess and shogi by planning with a learned model",4511,Generative_RL,./papers_data/mastering atari go chess and shogi by planning with a learned model.pdf,1,,,,,Pending,Not verified
+Understanding intermediate layers using linear classifier probes,4511,Generative_RL,./papers_data/understanding intermediate layers using linear classifier probes.pdf,1,,,,,Pending,Not verified
+Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav),4511,Generative_RL,./papers_data/Interpretability Beyond Feature Attribution  Quantitative Testing with Concept Activation Vectors  TCAV .pdf,1,,,,,Pending,Not verified
+Planning behavior in a recurrent neural network that plays sokoban,4511,Generative_RL,./papers_data/planning in a recurrent neural network that plays sokoban.pdf,1,,,,,Pending,Not verified
+A survey of the Schrödinger problem and some of its connections with optimal transport,6310,Generative_RL,./papers_data/a survey of the schrödinger problem and some of its connections with optimal transport.pdf,1,,,,,Pending,Not verified
+Diffusion Schrödinger bridge matching,6310,Generative_RL,./papers_data/Diffusion Schrödinger Bridge Matching.pdf,1,,,,,Pending,Not verified
+Sinkhorn distances: Lightspeed computation of optimal transport,6310,Generative_RL,./papers_data/Sinkhorn Distances  Lightspeed Computation of Optimal Transport.pdf,1,,,,,Pending,Not verified
+Flow matching for generative modeling,6310,Generative_RL,./papers_data/Flow Matching for Generative Modeling.pdf,1,,,,,Pending,Not verified

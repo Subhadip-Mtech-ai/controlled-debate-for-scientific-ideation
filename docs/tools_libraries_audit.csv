@@ -1,0 +1,12 @@
+Library,Status,Version
+openai,Installed,2.54.0
+transformers,Installed,5.22.1
+torch,Installed,2.14.1+cu130
+pandas,Installed,2.2.3
+numpy,Installed,2.4.6
+scikit-learn,Not installed,Not available
+sentence_transformers,Installed,5.7.0
+datasets,Installed,4.8.5
+matplotlib,Installed,3.10.0
+seaborn,Installed,0.13.2
+tiktoken,Installed,0.14.0

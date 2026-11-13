@@ -1,0 +1,7 @@
+Resource,Purpose,URL
+OpenAI API Quickstart,LLM API integration,https://platform.openai.com/docs/quickstart
+MALLM,Multi-agent debate architecture,https://github.com/Multi-Agent-LLMs/mallm
+Sentence Transformers,Semantic similarity and embeddings,https://www.sbert.net/
+Scikit-learn,Evaluation and statistical metrics,https://scikit-learn.org/stable/
+Hugging Face Datasets,Benchmark dataset handling,https://huggingface.co/docs/datasets/
+OpenAI Cookbook,Practical LLM API examples,https://cookbook.openai.com/

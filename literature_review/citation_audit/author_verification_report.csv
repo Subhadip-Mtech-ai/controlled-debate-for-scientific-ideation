@@ -1,0 +1,16 @@
+index,paper_title,candidate_author_count,registry_author_count,matched_authors,candidate_only,registry_only,author_check
+0,Hypothesis Generation with Large Language Models,5,5,5.0,0.0,0.0,EXACT AUTHOR MATCH
+1,Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers,3,0,,,,VERIFIED - OFFICIAL PAGE
+2,AI Idea Bench 2025: AI Research Idea Generation Benchmark,7,7,7.0,0.0,0.0,EXACT AUTHOR MATCH
+3,A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models,17,17,17.0,0.0,0.0,EXACT AUTHOR MATCH
+4,SciPIP: An LLM-based Scientific Paper Idea Proposer,10,10,10.0,0.0,0.0,EXACT AUTHOR MATCH
+5,HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation,5,5,5.0,0.0,0.0,EXACT AUTHOR MATCH
+6,ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models,4,4,4.0,0.0,0.0,EXACT AUTHOR MATCH
+7,The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery,6,6,6.0,0.0,0.0,EXACT AUTHOR MATCH
+8,Accelerating Scientific Discovery with Co-Scientist,51,51,51.0,0.0,0.0,EXACT AUTHOR MATCH
+9,A Multi-Agent System for Automating Scientific Discovery,14,14,14.0,0.0,0.0,EXACT AUTHOR MATCH
+10,Towards End-to-End Automation of AI Research,8,8,8.0,0.0,0.0,EXACT AUTHOR MATCH
+11,Improving Factuality and Reasoning in Language Models through Multiagent Debate,5,0,,,,VERIFIED - OFFICIAL PAGE
+12,Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate,9,9,9.0,0.0,0.0,EXACT AUTHOR MATCH
+13,Should We Be Going MAD? A Look at Multi-Agent Debate Strategies for LLMs,5,0,,,,VERIFIED - OFFICIAL PAGE
+14,Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?,3,3,3.0,0.0,0.0,VERIFIED - AUTHOR NAME VARIANT
