@@ -1,0 +1,45 @@
+1. Research Question
+
+How do specific configurations of high-albedo urban pavement materials combined with stratified, multi-canopy vegetation arrangements influence local heat retention and pedestrian thermal comfort in urban street canyons?
+
+2. Proposed Hypothesis
+
+Integrating high-albedo paving materials with vertically stratified vegetation (combining understory shrubs and high-canopy trees) in urban street canyons will reduce surface heat retention and improve pedestrian thermal comfort more effectively than deploying either high-albedo materials or tree-only vegetation arrangements in isolation.
+
+3. Scientific Mechanism or Reasoning
+
+Established Scientific Knowledge: It is well-established in urban climatology that dark, conventional impervious surfaces (such as standard asphalt) absorb high amounts of solar radiation during the day and release it as sensible heat via longwave radiation at night, contributing to the urban heat island effect. Vegetation provides localized cooling through shading (blocking shortwave radiation) and evapotranspiration, while high-albedo materials reflect incoming solar radiation rather than absorbing it.
+
+Proposed Mechanism: While high-albedo materials effectively reduce surface temperatures by increasing solar reflectance, they can sometimes reflect radiation onto adjacent vertical building walls or pedestrians if unshaded. Conversely, isolated tree canopies shade pedestrians but may trap sensible heat within deep street canyons due to reduced wind flow. We hypothesize that a combined approach, pairing high-albedo ground surfaces with multi-layered vegetation, will synergistically mitigate these drawbacks. The high-albedo surface minimizes net solar energy absorption into the ground, while the multi-strata vegetation canopy intercepts direct solar radiation before it reaches the pavement, enhances local evapotranspirative cooling, and disrupts pedestrian-level thermal stress without severely restricting beneficial night-time thermal radiation escape.
+
+4. Independent and Dependent Variables
+
+Independent Variables:
+- Surface material type (standard asphalt vs. high-albedo cool pavement).
+- Vegetation arrangement type (no vegetation vs. single-layer tree canopy vs. stratified multi-canopy arrangement of trees and shrubs).
+
+Dependent Variables:
+- Surface temperature of urban materials (measured via infrared thermography).
+- Pedestrian thermal comfort, evaluated using the Universal Thermal Climate Index (UTCI).
+
+5. Proposed Experimental Methodology
+
+- Site Selection: Conduct field measurements across controlled, comparable urban street canyon segments with identical orientations, aspect ratios, and baseline traffic/anthropogenic heat inputs, but differing in their surface material and vegetation profiles.
+- Instrumentation: Deploy weather stations at pedestrian height (1.5 meters above ground) within each canyon segment to continuously record air temperature, relative humidity, wind speed, and mean radiant temperature (MRT). Utilize calibrated infrared radiometers and thermal cameras to measure surface temperatures across pavements, walls, and foliage.
+- Data Collection: Monitor microclimatic parameters concurrently across all test segments during peak diurnal solar radiation periods and overnight cooling phases under clear-sky conditions.
+- Analysis: Compare the calculated Universal Thermal Climate Index (UTCI) values and surface cooling rates across the different material-vegetation configurations.
+
+6. Expected Measurable Outcome
+
+It is expected that street canyons featuring the combined high-albedo material and stratified vegetation arrangement will exhibit lower daytime surface temperatures, reduced mean radiant temperature (MRT) at the pedestrian level, and improved UTCI values compared to canyons with single interventions or control conditions. Because specific quantitative improvements depend heavily on local microclimatic contexts, building geometry, and material specifications, the exact magnitude of the effect is unknown and must be determined experimentally.
+
+7. Limitations and Assumptions
+
+Limitations:
+- Microclimatic conditions (ambient wind patterns, regional humidity, cloud cover, and seasonal sun angles) vary temporally and can introduce confounding variables.
+- Anthropogenic heat sources (such as vehicular traffic and building HVAC exhaust) are assumed to be constant or negligible across the compared street segments, though they may introduce localized variance.
+- The long-term durability and albedo-degradation of high-albedo pavements over time (e.g., due to dust accumulation and weathering) are not accounted for in short-term experimental designs.
+
+Assumptions:
+- The selected urban street canyon segments are sufficiently similar in geometry and wind exposure to allow for comparative microclimatic analysis.
+- Standardized instrumentation is capable of capturing localized microclimatic variations attributable specifically to the surface and vegetation interventions.

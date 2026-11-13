@@ -1,0 +1,35 @@
+1. Research Question
+How do specific spatial arrangements of high-albedo urban surface materials relative to multi-tiered vegetation patches influence local surface heat retention and pedestrian thermal comfort within street canyons?
+
+2. Proposed Hypothesis
+Placing high-albedo pavement materials adjacent to upwind multi-tiered vegetation configurations (comprising canopy trees and understory shrubs) significantly decreases local surface heat retention and improves pedestrian thermal comfort within urban street canyons compared to homogeneous surface materials or non-stratified vegetation arrangements.
+
+3. Scientific Mechanism or Reasoning
+*Established Scientific Knowledge:* Urban surface materials with high solar reflectance (albedo) absorb less shortwave radiation than low-albedo materials, thereby reducing overall surface temperatures. Furthermore, vegetation provides shade—limiting the absorption of solar radiation by ground surfaces—and cools ambient air through transpiration. 
+*Proposed Mechanism:* The spatial configuration of these elements determines their interactive cooling efficacy. We propose that upwind multi-tiered vegetation modifies local micro-advection by cooling and humidifying incoming air before it passes over high-albedo surfaces. Simultaneously, the high-albedo material prevents excessive ground heat storage during peak solar hours without causing intense localized thermal radiation toward pedestrians, because the adjacent vegetation canopy intercepts and diffuses downward shortwave and upward longwave radiation. The exact magnitude of this combined thermal effect on pedestrian comfort is currently unknown and must be determined experimentally.
+
+4. Independent and Dependent Variables
+*Independent Variables:* 
+- Surface material albedo (standard asphalt vs. high-albedo cool pavement).
+- Vegetation arrangement configuration (single-tier canopy trees alone vs. multi-tiered vegetation patches combining canopy trees and shrubs positioned upwind).
+*Dependent Variables:*
+- Local surface temperature of the pavement materials.
+- Pedestrian thermal comfort, measured via the Universal Thermal Climate Index (UTCI) or Physiological Equivalent Temperature (PET), which integrates air temperature, mean radiant temperature, wind speed, and relative humidity at pedestrian height.
+
+5. Proposed Experimental Methodology
+- Conduct a controlled microclimate field study utilizing paired urban street canyon sites or mobile microclimate transects during peak summer meteorological conditions.
+- Instrument the test sites with net radiometers, surface infrared thermometers, and microclimate weather stations (measuring air temperature, humidity, and wind speed at 1.5 meters above the ground).
+- Measure pedestrian thermal comfort parameters across different zones (canopy-shaded high-albedo zones, unshaded high-albedo zones, and baseline control zones) during diurnal heating and cooling cycles.
+- Compare the spatial and temporal variations in surface temperatures and calculated UTCI values across the different material-vegetation arrangements.
+
+6. Expected Measurable Outcome
+The combination of high-albedo materials and multi-tiered vegetation arrangements is expected to show a qualitative reduction in daytime surface temperatures and a corresponding qualitative improvement in pedestrian thermal comfort metrics (lower UTCI values) compared to control layouts. Because exact effect magnitudes cannot be predicted a priori, the specific quantitative reduction in temperature and thermal stress will be determined directly from the empirical measurements.
+
+7. Limitations and Assumptions
+*Assumptions:* 
+- Ambient regional weather patterns (macro-meteorological conditions) remain relatively constant during comparative testing periods.
+- Anthropogenic heat sources (such as vehicular traffic or building exhaust) remain relatively uniform across the test environments.
+*Limitations:* 
+- Findings may be specific to the regional climate zone, latitude, and canyon geometry tested.
+- Seasonal variations in deciduous foliage will alter the shading dynamics and cooling efficacy, which cannot be fully captured in a single-season study.
+- Vegetation transpiration rates can fluctuate based on soil moisture availability, which introduces environmental variability.

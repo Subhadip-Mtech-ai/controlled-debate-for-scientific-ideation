@@ -1,0 +1,14 @@
+{
+    "model": "gemini-3.5-flash-lite",
+    "task_id": "T01",
+    "prompt_version": "revised_common_generation_prompt",
+    "temperature": 0.2,
+    "max_output_tokens": 2048,
+    "finish_reason": "FinishReason.STOP",
+    "generation_status": "SUCCESS",
+    "prompt_tokens": 298,
+    "candidate_tokens": 757,
+    "total_tokens": 1055,
+    "validation_status": "provisional_candidate",
+    "validated_at_utc": "2026-11-13T06:38:31.072351+00:00"
+}

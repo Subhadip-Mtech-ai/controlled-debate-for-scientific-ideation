@@ -1,0 +1,31 @@
+1. Research Question
+How do specific spatial arrangements of high-albedo urban surface materials and multilayered vegetation configurations influence local microclimate heat retention and pedestrian thermal comfort in high-density urban environments?
+
+2. Proposed Hypothesis
+Integrating high-albedo paving materials directly adjacent to the windward side of multilayered canopy vegetation (comprising canopy trees, understory shrubs, and ground cover) will result in a greater reduction of daytime radiant heat storage and a more favorable pedestrian thermal comfort index compared to uniform arrangements of high-albedo materials or vegetation alone.
+
+3. Scientific Mechanism or Reasoning
+*Established scientific knowledge:* Urban surfaces (such as asphalt and concrete) absorb shortwave solar radiation and re-emit it as longwave radiation, contributing to the urban heat island effect. Vegetation provides cooling through shading (blocking shortwave radiation) and evapotranspiration (latent heat flux), while high-albedo materials reflect incoming solar radiation to lower surface temperatures. 
+*Proposed mechanism:* When high-albedo materials are placed upwind or adjacent to multilayered vegetation, the reflected shortwave radiation may theoretically interact with the canopy. We propose that the shading provided by the canopy mitigates the potential disadvantage of high-albedo reflection (which can sometimes increase radiant loads on pedestrians if unshaded), while the vegetation's evapotranspiration cools the locally warmed air mass passing over the high-albedo surface. The exact magnitude of this combined interaction on pedestrian thermal comfort is currently unknown and must be determined experimentally.
+
+4. Independent and Dependent Variables
+*Independent Variables:* 
+- Surface material albedo configuration (standard low-albedo asphalt vs. high-albedo cool pavement).
+- Spatial arrangement of vegetation relative to the surface material (isolated vegetation, isolated high-albedo pavement, and integrated upwind high-albedo pavement with downwind multilayered canopy).
+*Dependent Variables:*
+- Local air temperature and relative humidity.
+- Mean radiant temperature ($T_{mrt}$).
+- Pedestrian thermal comfort, measured qualitatively or via standard thermal indices such as the Universal Thermal Climate Index (UTCI).
+
+5. Proposed Experimental Methodology
+- Select three comparable urban micro-sites (e.g., pedestrian pathways or open plazas) with identical baseline geometry and orientation.
+- Implement the three spatial arrangements: Site A (control: standard materials and sparse vegetation), Site B (high-albedo pavement paired with isolated canopy trees), and Site C (high-albedo pavement integrated directly upwind of a multilayered vegetation array).
+- Deploy a network of mobile weather stations and net radiometers at pedestrian height (1.5 meters above ground) across all sites to record air temperature, relative humidity, wind speed, and shortwave/longwave radiation concurrently during peak solar irradiance periods.
+- Calculate the Universal Thermal Climate Index (UTCI) for each site based on the collected micrometeorological data.
+
+6. Expected Measurable Outcome
+The integrated configuration (Site C) is expected to show a qualitative decrease in mean radiant temperature ($T_{mrt}$) and a more favorable pedestrian thermal comfort index during peak daylight hours compared to the control site. Because exact effect magnitudes cannot be predicted without supporting empirical evidence, the precise numerical degree of temperature reduction or UTCI improvement remains unknown prior to experimentation.
+
+7. Limitations and Assumptions
+*Limitations:* Microclimatic conditions are heavily influenced by ambient weather, surrounding building geometry, and anthropogenic heat sources (e.g., traffic and HVAC exhaust), which may introduce confounding variables. 
+*Assumptions:* It is assumed that wind direction remains relatively stable during observation periods to properly evaluate the upwind/downwind spatial arrangement hypothesis, and that baseline anthropogenic activity is comparable across all selected test sites.
